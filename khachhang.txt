@@ -1,0 +1,6 @@
+1;khoa;Da Nang;30
+2;na;Ha Noi;10
+3;minh;vung tau;20
+4;tung;ben tre;50
+5;nhu;quang binh;40
+6;ha;hue;100
